@@ -1,0 +1,99 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "name": "Arun Doe",
+      "email": "arun@lpu.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane",
+      "email": "jane@lpu.com"
+    },
+    {
+      "id": "3",
+      "name": "Rahul Sharma",
+      "email": "rahul@lpu.com"
+    },
+    {
+      "id": "4",
+      "name": "Priya Singh",
+      "email": "priya@lpu.com"
+    },
+    {
+      "id": "5",
+      "name": "Mohit Verma",
+      "email": "mohit@lpu.com"
+    },
+    {
+      "id": "6",
+      "name": "Sneha Roy",
+      "email": "sneha@lpu.com"
+    },
+    {
+      "id": "7",
+      "name": "Aman Gupta",
+      "email": "aman@lpu.com"
+    },
+    {
+      "id": "8",
+      "name": "Simran Kaur",
+      "email": "simran@lpu.com"
+    },
+    {
+      "id": "9",
+      "name": "Ravi Kumar",
+      "email": "ravi@lpu.com"
+    },
+    {
+      "id": "10",
+      "name": "Neha Mehta",
+      "email": "neha@lpu.com"
+    },
+    {
+      "id": "11",
+      "name": "Deepak Yadav",
+      "email": "deepak@lpu.com"
+    },
+    {
+      "id": "12",
+      "name": "Anjali Chauhan",
+      "email": "anjali@lpu.com"
+    },
+    {
+      "id": "13",
+      "name": "Karan Patel",
+      "email": "karan@lpu.com"
+    },
+    {
+      "id": "14",
+      "name": "Pooja Rani",
+      "email": "pooja@lpu.com"
+    },
+    {
+      "id": "15",
+      "name": "Vikas Malhotra",
+      "email": "vikas@lpu.com"
+    },
+    {
+      "id": "16",
+      "name": "Tanya Batra",
+      "email": "tanya@lpu.com"
+    },
+    {
+      "id": "17",
+      "name": "Harsh Vardhan",
+      "email": "harsh@lpu.com"
+    },
+    {
+      "id": "18",
+      "name": "Ritika Sharma",
+      "email": "ritika@lpu.com"
+    },
+    {
+      "id": "19",
+      "name": "Nikhil Nikhil",
+      "email": "nikhil@lpu.com"
+    }
+  ]
+}

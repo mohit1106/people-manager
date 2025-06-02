@@ -1,0 +1,6 @@
+<div *ngIf="person" class="container">
+  <h2>Delete Person</h2>
+  <p>Are you sure you want to delete <strong>{{ person.name }}</strong> ({{ person.email }})?</p>
+  <button class="delete-btn" (click)="confirmDelete()">Yes, Delete</button>
+  <button class="cancel-btn" (click)="cancel()">Cancel</button>
+</div>

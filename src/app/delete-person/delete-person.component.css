@@ -1,0 +1,35 @@
+.container {
+  max-width: 400px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.delete-btn, .cancel-btn {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+}
+
+.delete-btn {
+  background-color: #f44336;
+}
+
+.delete-btn:hover {
+  background-color: #d32f2f;
+}
+
+.cancel-btn {
+  background-color: #4CAF50;
+}
+
+.cancel-btn:hover {
+  background-color: #45a049;
+}
