@@ -12,7 +12,7 @@ export class EditPersonComponent implements OnInit {
 
   constructor(
     private route: ActivatedRoute,
-    private router: Router,
+    public router: Router,
     private peopleService: PeopleService
   ) { }
 
